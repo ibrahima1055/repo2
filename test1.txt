@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C s'appelle Windows
+ Le num‚ro de s‚rie du volume est 624E-54A8
+
+ R‚pertoire de C:\Users\admin\Desktop\myProject
+
+19/03/2019  17:03    <DIR>          .
+19/03/2019  17:03    <DIR>          ..
+19/03/2019  17:03                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  888ÿ680ÿ681ÿ472 octets libres
